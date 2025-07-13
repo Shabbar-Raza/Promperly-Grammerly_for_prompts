@@ -1,0 +1,109 @@
+# Bolt Default Prompts Library
+
+## Programming
+1. Refactor the following code for better readability and maintainability.
+2. Write unit tests for the given function.
+3. Explain what this code does, step by step.
+4. Optimize this code for performance.
+5. Convert this code from Python to JavaScript.
+6. Add error handling to the following code.
+7. Document this function with clear comments.
+8. Find and fix the bug in this code.
+9. Suggest improvements for this algorithm.
+10. Write a function to validate user input for this form.
+11. Generate a REST API endpoint for the described feature.
+12. Explain the time and space complexity of this code.
+13. Add logging to this application for debugging.
+14. Write a SQL query to retrieve the required data.
+15. Convert this synchronous code to asynchronous.
+16. Create a responsive UI component for this feature.
+17. Write a regular expression to match the given pattern.
+18. Explain the difference between these two code snippets.
+19. Suggest best practices for secure coding in this context.
+20. Generate a Dockerfile for this application.
+21. Write a script to automate this workflow.
+22. Migrate this code to use the latest framework version.
+23. Create a configuration file for this tool.
+24. Explain how to deploy this application to the cloud.
+25. Write a code review summary for the following pull request.
+
+## Content Creation
+1. Write a blog post introduction about the given topic.
+2. Generate 5 catchy headlines for this article.
+3. Summarize the following text in 3 sentences.
+4. Rewrite this paragraph to be more engaging.
+5. Create a content calendar for a month on this subject.
+6. Suggest SEO keywords for this topic.
+7. Write a product description for this item.
+8. Turn this outline into a full article.
+9. Generate a social media post for this announcement.
+10. Write a script for a 2-minute explainer video.
+11. Create a call-to-action for this landing page.
+12. Paraphrase this content for a different audience.
+13. Write an email newsletter about this update.
+14. Generate FAQs for this service.
+15. Suggest visual ideas to accompany this content.
+16. Write a press release for this event.
+17. Create a listicle based on this topic.
+18. Turn this data into an infographic outline.
+19. Write a podcast episode summary.
+20. Generate a LinkedIn post for this achievement.
+21. Write a YouTube video description for this video.
+22. Suggest blog post topics for this niche.
+23. Create a content brief for a freelance writer.
+24. Write a testimonial for this product.
+25. Generate a meta description for this web page.
+
+## Job Hunt (Cover Letters, Resume, etc.)
+1. Write a cover letter for a software engineering job.
+2. Tailor this resume for a marketing position.
+3. Summarize your work experience in 3 sentences.
+4. Write a LinkedIn summary for a recent graduate.
+5. Generate bullet points for this job description.
+6. Write a thank-you email after an interview.
+7. Create a professional bio for a portfolio website.
+8. Suggest skills to add to this resume.
+9. Write a follow-up message to a recruiter.
+10. Generate a list of questions to ask in an interview.
+11. Write an objective statement for this resume.
+12. Paraphrase this experience for a different industry.
+13. Write a reference letter for a colleague.
+14. Generate a summary of qualifications for this role.
+15. Write a resignation letter for this job.
+16. Create a networking email to connect with alumni.
+17. Write a personal statement for a graduate program.
+18. Generate a list of achievements for this position.
+19. Write a cold email to a potential employer.
+20. Suggest ways to improve this LinkedIn profile.
+21. Write a cover letter for a remote job.
+22. Generate a list of certifications relevant to this field.
+23. Write a response to a job offer.
+24. Create a portfolio project description.
+25. Write a short bio for a conference speaker.
+
+## Student
+1. Summarize this chapter in 5 bullet points.
+2. Generate study questions for this topic.
+3. Explain this concept in simple terms.
+4. Create a study schedule for the upcoming exam.
+5. Write a lab report introduction for this experiment.
+6. Paraphrase this paragraph for clarity.
+7. Generate a list of key terms and definitions.
+8. Write a reflection on this reading assignment.
+9. Create a presentation outline for this subject.
+10. Suggest ways to improve study habits.
+11. Write a research question for this topic.
+12. Generate a bibliography entry for this source.
+13. Summarize the main argument of this article.
+14. Write a hypothesis for this experiment.
+15. Create a mind map for this concept.
+16. Write a peer review for this essay.
+17. Generate a list of resources for further study.
+18. Write a discussion post for this class forum.
+19. Paraphrase this quote in your own words.
+20. Create a multiple-choice quiz on this material.
+21. Write a summary of this lecture.
+22. Generate a list of project ideas for this course.
+23. Write a letter to your future self about your goals.
+24. Create a checklist for this assignment.
+25. Write a script for a group presentation on this topic. 
